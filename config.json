@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"id": "978243249489727518",
+		"prefix": "=",
+		"secret": "75SjtO7c3dM6OEWCgwuipxno9fUaFUpZ",
+		"status": "dnd",
+		"url": "",
+		"production": true
+	},
+	"app": {
+		"port": 6969
+	}
+}
